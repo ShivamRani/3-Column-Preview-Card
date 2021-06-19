@@ -17,5 +17,5 @@ Users should be able to:
 ![Screenshot](https://user-images.githubusercontent.com/83000202/122635006-fffd6800-d0fe-11eb-8422-8e9c3c18725e.png)
 
 ### Links :
-- Solution URL - 
-- Live Site URL -
+- Solution URL - https://github.com/ShivamRani/3-Column-preview-card
+- Live Site URL - https://3-column-preview-card-umber.vercel.app/
